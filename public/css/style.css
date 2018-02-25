@@ -1,0 +1,91 @@
+.heading-title{
+	font-size: 2.5em;
+}
+.all-text{
+	font-size: 2em;
+}
+.dropdown-text{
+	font-size: 1.5em;
+}
+.btn-h1-spacing{
+	margin-top: 18px;
+}
+
+.form-spacing-top{
+	margin-top: 20px;
+}
+.comment{
+	margin-bottom: 45px;
+}
+.author-info{
+
+}
+.comment-content{
+
+}
+.author-image{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+	margin-top: 5px;
+}
+.author-name{
+	float: left;
+	margin-left: 10px;
+}
+.author-name>h4{
+	margin: 5px 0px;
+}
+.author-time{
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+.comment-content{
+	clear: both;
+	margin-left: 65px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+.comment-title{
+	margin-bottom: 45px;
+}
+.form-label{
+	font-size: 20px;
+}
+.label-text{
+	font-size: 2em;
+}
+.form-position{
+	padding-left: 30em;
+}
+.button-size{
+	font-size: 2em;
+}
+.success-message{
+	font-size: 1.5em;
+}
+.common-text{
+	font-size: 1.5em;
+}
+.table-header-size{
+	font-size: 1.3em;
+}
+.table-font-size{
+	font-size: 1.5em;
+}
+#input-enroll-form-size{
+	width: 60%;
+	font-size: 1.5em;
+}
+#input-enroll-login-form-size{
+	width: 100%;
+	font-size: 1.5em;
+}
+#login-form-position{
+	margin-top: 10em;
+}
+.footer-bottom{
+	padding-top: 6em;
+}
